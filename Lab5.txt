@@ -1,0 +1,8 @@
+Spatial Analysis Lab 5 Assignment
+Mason Harris
+
+
+12. Estimate the area of the survey in 2012 and save the information in the text file you made
+- Gulf of Mexico: ~0.55 square kilometers
+- Alaska: ~62.6 square kilometers
+
